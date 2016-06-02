@@ -1,0 +1,89 @@
+body{ 
+	background:#DDD;
+}
+
+div{
+	position: relative;
+	margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h1{
+	color: black;
+	position: relative;
+	margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h4{
+	position: relative;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+table{
+
+	border: 1px solid black;
+	position: relative;
+	margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-collapse: separate;
+}
+table td{
+    border: 1px solid black;
+    padding: 10px;
+}
+table td:empty {
+  background: black;
+}
+
+.smalltext {
+	font-size: small;
+}
+
+.form {
+	width: 400px;
+	text-align: left;
+}
+
+.account {
+	position: relative;
+	margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#myChart {
+	position: relative;
+	margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.right {
+	float:right;
+    clear:both;
+    width: 700px;
+    font-size: small;
+}
+
+#gpa {
+	font-weight: bold;
+}
+
+#error {
+	color: red;
+	font-size: small;
+}
+
+.error {
+	color: red;
+	font-size: small;
+}
+
+.button {
+	width: 100px;
+}
